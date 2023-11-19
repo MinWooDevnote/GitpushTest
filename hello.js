@@ -9,5 +9,3 @@ function hello(name) {
     // 터미널에서 name 이 녹색으로 출력되는 것을 확인할 수 있습니다.
   }
   
-  hello("홍길동");
-
